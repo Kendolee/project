@@ -1,0 +1,3 @@
+[submodule "speedtest-tracker"]
+	path = speedtest-tracker
+	url = https://github.com/alexjustesen/speedtest-tracker.git

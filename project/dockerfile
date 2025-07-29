@@ -1,3 +1,0 @@
-FROM tomcat:11.0.2-jre21
-# author is kentech solution
-COPY target/*.war /usr/local/tomcat/webapps/webapp.war

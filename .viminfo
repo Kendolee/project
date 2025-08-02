@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1753824707,,"wq"
+|2,0,1754120214,,"wq"
+:wq!
+|2,0,1754084273,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +27,265 @@
 # Registers:
 
 # File marks:
-'0  15  33  ~/project/2095_level/Dockerfile
-|4,48,15,33,1753824707,"~/project/2095_level/Dockerfile"
-'1  4  25  ~/doc.sh
-|4,49,4,25,1753824042,"~/doc.sh"
+'0  11  66  ~/speedtest-tracker/docker-compose.yml
+|4,48,11,66,1754120214,"~/speedtest-tracker/docker-compose.yml"
+'1  7  12  ~/speedtest-tracker/docker-compose.yml
+|4,49,7,12,1754120059,"~/speedtest-tracker/docker-compose.yml"
+'2  7  12  ~/speedtest-tracker/docker-compose.yml
+|4,50,7,12,1754120059,"~/speedtest-tracker/docker-compose.yml"
+'3  1  407  ~/speedtest-tracker/docker-compose.yml
+|4,51,1,407,1754084671,"~/speedtest-tracker/docker-compose.yml"
+'4  1  407  ~/speedtest-tracker/docker-compose.yml
+|4,52,1,407,1754084671,"~/speedtest-tracker/docker-compose.yml"
+'5  15  14  ~/speedtest-tracker/docker-compose.yml
+|4,53,15,14,1754084671,"~/speedtest-tracker/docker-compose.yml"
+'6  15  14  ~/speedtest-tracker/docker-compose.yml
+|4,54,15,14,1754084671,"~/speedtest-tracker/docker-compose.yml"
+'7  1  407  ~/speedtest-tracker/docker-compose.yml
+|4,55,1,407,1754084671,"~/speedtest-tracker/docker-compose.yml"
+'8  1  407  ~/speedtest-tracker/docker-compose.yml
+|4,56,1,407,1754084671,"~/speedtest-tracker/docker-compose.yml"
+'9  15  14  ~/speedtest-tracker/docker-compose.yml
+|4,57,15,14,1754084671,"~/speedtest-tracker/docker-compose.yml"
 
 # Jumplist (newest first):
--'  15  33  ~/project/2095_level/Dockerfile
-|4,39,15,33,1753824707,"~/project/2095_level/Dockerfile"
--'  1  0  ~/project/2095_level/Dockerfile
-|4,39,1,0,1753824675,"~/project/2095_level/Dockerfile"
--'  4  25  ~/doc.sh
-|4,39,4,25,1753824042,"~/doc.sh"
--'  4  25  ~/doc.sh
-|4,39,4,25,1753824042,"~/doc.sh"
--'  1  0  ~/doc.sh
-|4,39,1,0,1753823866,"~/doc.sh"
--'  1  0  ~/doc.sh
-|4,39,1,0,1753823866,"~/doc.sh"
+-'  11  66  ~/speedtest-tracker/docker-compose.yml
+|4,39,11,66,1754120214,"~/speedtest-tracker/docker-compose.yml"
+-'  7  12  ~/speedtest-tracker/docker-compose.yml
+|4,39,7,12,1754120186,"~/speedtest-tracker/docker-compose.yml"
+-'  7  12  ~/speedtest-tracker/docker-compose.yml
+|4,39,7,12,1754120059,"~/speedtest-tracker/docker-compose.yml"
+-'  1  404  ~/speedtest-tracker/docker-compose.yml
+|4,39,1,404,1754119958,"~/speedtest-tracker/docker-compose.yml"
+-'  1  404  ~/speedtest-tracker/docker-compose.yml
+|4,39,1,404,1754119958,"~/speedtest-tracker/docker-compose.yml"
+-'  15  14  ~/speedtest-tracker/docker-compose.yml
+|4,39,15,14,1754084671,"~/speedtest-tracker/docker-compose.yml"
+-'  15  14  ~/speedtest-tracker/docker-compose.yml
+|4,39,15,14,1754084671,"~/speedtest-tracker/docker-compose.yml"
+-'  15  14  ~/speedtest-tracker/docker-compose.yml
+|4,39,15,14,1754084671,"~/speedtest-tracker/docker-compose.yml"
+-'  16  23  ~/speedtest-tracker/docker-compose.yml
+|4,39,16,23,1754084273,"~/speedtest-tracker/docker-compose.yml"
+-'  16  23  ~/speedtest-tracker/docker-compose.yml
+|4,39,16,23,1754084273,"~/speedtest-tracker/docker-compose.yml"
+-'  1  464  ~/speedtest-tracker/docker-compose.yml
+|4,39,1,464,1754084163,"~/speedtest-tracker/docker-compose.yml"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  1  0  ~/speedtest-tracker/up
+|4,39,1,0,1754083439,"~/speedtest-tracker/up"
+-'  13  35  ~/speedtest-tracker/docker-compose.yml
+|4,39,13,35,1754083360,"~/speedtest-tracker/docker-compose.yml"
+-'  13  35  ~/speedtest-tracker/docker-compose.yml
+|4,39,13,35,1754083360,"~/speedtest-tracker/docker-compose.yml"
+-'  13  35  ~/speedtest-tracker/docker-compose.yml
+|4,39,13,35,1754083360,"~/speedtest-tracker/docker-compose.yml"
+-'  13  35  ~/speedtest-tracker/docker-compose.yml
+|4,39,13,35,1754083360,"~/speedtest-tracker/docker-compose.yml"
+-'  13  35  ~/speedtest-tracker/docker-compose.yml
+|4,39,13,35,1754083360,"~/speedtest-tracker/docker-compose.yml"
+-'  1  0  ~/speedtest-tracker/docker-compose.yml
+|4,39,1,0,1754083230,"~/speedtest-tracker/docker-compose.yml"
+-'  1  0  ~/speedtest-tracker/docker-compose.yml
+|4,39,1,0,1754083230,"~/speedtest-tracker/docker-compose.yml"
+-'  1  0  ~/speedtest-tracker/docker-compose.yml
+|4,39,1,0,1754083230,"~/speedtest-tracker/docker-compose.yml"
+-'  1  0  ~/speedtest-tracker/docker-compose.yml
+|4,39,1,0,1754083230,"~/speedtest-tracker/docker-compose.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
+-'  16  10  ~/speedtest-tracker/docker-compse.yml
+|4,39,16,10,1754082726,"~/speedtest-tracker/docker-compse.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/speedtest-tracker/docker-compose.yml
+	*	1754120211	0
+	"	11	66
+	^	11	67
+	.	11	66
+	+	1	437
+	+	1	1375
+	+	1	437
+	+	1	369
+	+	1	408
+	+	1	298
+	+	16	26
+	+	7	12
+	+	11	66
+
+> ~/speedtest-tracker/up
+	*	1754083436	0
+	"	1	0
+
+> ~/speedtest-tracker/docker-compse.yml
+	*	1754082721	0
+	"	16	10
+	^	16	11
+	.	16	10
+	+	16	82
+	+	11	72
+	+	8	0
+	+	14	12
+	+	14	0
+	+	12	44
+	+	13	35
+	+	16	24
+	+	17	0
+	+	16	10
 
 > ~/project/2095_level/Dockerfile
 	*	1753824704	0

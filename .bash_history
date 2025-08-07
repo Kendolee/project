@@ -164,3 +164,96 @@ cd speedtest-tracker/
 ls
 cat docker-compose.yml 
 docker ps
+git status
+git remote add kk https://github.com/Kendolee/project.git
+git add .
+git status
+git add .
+git commit -m "frist commit"
+git commit -m "frist comment"
+git commit -a "frist comment"
+git status
+git add project
+git status
+git push kk master
+git pull https://github.com/Kendolee/project.git
+git status
+git init
+git add .
+git status
+git commit -m "Add changes in project and speedtest-tracker"
+git push kk master
+git remote -v
+git push kk
+git push kk master
+git pull origin master --rebase
+git pull kk master --rebase
+git branch
+git push kk master
+git status
+git add .
+git status
+rm -rf project/.git
+git status
+git add .
+git status
+ls
+rm -rf speedtest-tracker/.git
+ls
+git status
+git init
+git status
+git add project speedtest-tracker
+git commit -m "Added folders without submodules"
+git push kk  master
+ls
+cd speedtest-tracker/
+ls
+cd speedtest-tracker/
+ls
+cat docker-compose.yml 
+exit
+ls
+docker ps
+sudo ufw status
+91df4e5f0bc3   static   ...   Up 4 minutes   0.0.0.0:80->80/tcp
+docker logs static
+docker ps
+ls
+docker ps
+curl 54.67.4.132
+curl 54.67.4.132:8077
+sudo grep -R "listen" /etc/nginx/
+sudo systemctl status nginx
+sudo lsof -i :8077
+sudo docker ps
+sudo docker stop ee1d1c5dd6fd
+sudo docker run -d -p 80:80 --name static IMAGE_NAME
+sudo docker run -d -p 80:80 --name static image_name
+sudo docker run -d -p 80:80 --name static 
+sudo docker run -d -p 80:80 --name static static
+sudo docker run -d -p 80:80 --name static hello
+sudo docker run -d -p 80:80 --name statichello
+sudo docker run -d -p 80:80 --name hello static
+docker ps
+sudo lsof -i :80
+sudo docker ps --filter "publish=80"
+docker ps -a
+docker stop 122ed31e2804 
+docker ps
+sudo docker stop hello
+sudo docker rm hello
+sudo docker stop static
+sudo docker rm static
+sudo docker run -d -p 80:80 --name static static
+docker ps
+clear
+sudo apt update
+sudo apt install docker.io -y
+sudo usermod -aG docker ubuntu
+newgrp docker
+docker ps -a
+mkdir -p $HOME/.ssh
+echo $HOME
+touch ~/.ssh/testfile
+sudo mkdir -p ~ubuntu/.ssh
